@@ -1,3 +1,7 @@
+<style>
+body { font-size : 20pt }
+</style>
+
 # What are Coins and how do I get them?
 
 Coins are Plato's primary currency, used to buy or gift items from the shop, or enter tournaments.
