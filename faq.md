@@ -1,24 +1,3 @@
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-
 # What are Coins and how do I get them?
 
 Coins are Plato's primary currency, used to buy or gift items from the shop, or enter tournaments.
@@ -33,26 +12,13 @@ There are several ways to get Coins:
 
 You can gift your friends Coins by clicking GIFT COINS on their profile.
 
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
+# What is the Daily Quest?
+
+The Daily Quest is a daily Plato challenge. Each day you win 2 ranked or tournament games, you'll receive 150 Coins! Keep track at the top of your home feed.
+
+# What is the Daily Reward?
+
+The Daily Reward is a daily Plato freebie. Each day you enter Plato, you'll receive one free item to help you build up your collection! Check which items you'll receive this week via News > Daily Reward.
 
 # What is the Welcome Offer?
 
